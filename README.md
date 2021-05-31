@@ -1,13 +1,15 @@
 ## Flight_Delay_Predictor
-A ML model to predict Flight Delays
+**A ML model to predict Flight Delays**
 
 ### Tools used:
-Numpy
+**Numpy**
 <br>
-Pandas
+**Pandas**
 <br>
-Scikit-Learn
+**Scikit-Learn**
 <br>
-Matplotlib
+**Matplotlib**
 <br>
-Seaborn
+**Seaborn**
+
+### **Data:** Azure blob storage
